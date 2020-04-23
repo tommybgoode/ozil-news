@@ -1988,4 +1988,10 @@ select.form-control {
 textarea.form-control {
   height: 140px; }
 
+.logo {
+  max-height: 150%;
+  max-width: 150%;
+  border: 0px;
+}
+
 /*# sourceMappingURL=style.css.map */
