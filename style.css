@@ -50,6 +50,7 @@ a:focus {
   font-size: 14px;
   font-family: "Roboto", sans-serif; }
 
+
 ul {
   margin: 0; }
   ul li {
@@ -1445,7 +1446,7 @@ input:focus {
 .vizew-pager-next {
   position: fixed;
   z-index: 100;
-  top: 50%;
+  top: 35%;
   left: 0;
   width: 60px;
   -webkit-transform: translateY(-50%);
@@ -1997,6 +1998,11 @@ textarea.form-control {
 .full-width {
   width: 100%;
   height: auto;
+}
+
+.article-img {
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
