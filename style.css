@@ -1460,7 +1460,7 @@ input:focus {
     transition-duration: 500ms;
     cursor: pointer;
     position: absolute;
-    width: 270px;
+    width: 180px;
     height: 60px;
     background-color: #181b1b;
     font-size: 18px;
@@ -1476,7 +1476,7 @@ input:focus {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
-    left: -105px;
+    left: -60px;
     z-index: 1; }
     @media only screen and (max-width: 767px) {
       .vizew-pager-prev p,
@@ -1503,7 +1503,7 @@ input:focus {
   left: auto; }
   .vizew-pager-next p {
     left: auto;
-    right: -105px; }
+    right: -65px; }
     @media only screen and (max-width: 767px) {
       .vizew-pager-next p {
         right: -90px; } }
